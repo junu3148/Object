@@ -5,10 +5,11 @@
 
 ## 테스트 환경
 
-Ubuntu 22.04(워크스테이션)
-Anaconda
-VS Code
-Python 3.8.0
+Ubuntu 22.04(워크스테이션) <br>
+A5000<br>
+Anaconda<br>
+VS Code<br>
+Python 3.8.0<br>
 
 ## 사용 모델
 <br>
