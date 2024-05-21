@@ -15,7 +15,7 @@ Python 3.8.0
 AI model - cloth-segmentation <br> 
 FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/levindabhi/cloth-segmentation">
-    <img src="![image](https://github.com/junu3148/Object/assets/134668162/23750b74-77a5-4473-8561-a1b2ca956bac)
+    ![image](https://github.com/junu3148/Object/assets/134668162/693277de-7585-4005-b108-2e5e27ffee9b)
 ">
 </a>
 
@@ -23,7 +23,6 @@ FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br>
 AI model -  IART <br> 
 FastAPI, Python 3.9, PyTorch 1.13, CUDA 11.7,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/kai422/IART">
-    <img src="https://github.com/junu3148/Upscale/assets/134668162/0c664e1e-8135-4750-b463-f50a90f8323f" alt="IART Image">
 </a>
 
 
