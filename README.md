@@ -3,16 +3,16 @@
 ![image](https://github.com/junu3148/Object/assets/134668162/e4c45354-6a80-41ed-b5ba-120f8ee0fadc)
 
 
-
-## 사용 모델
+## 테스트 환경
 
 Ubuntu 22.04(워크스테이션)
 Anaconda
 VS Code
 Python 3.8.0
 
+## 사용 모델
 <br>
-AI model - cloth-segmentation <br> 
+AI model - cloth-segmentation(U2NET) <br> 
 FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/levindabhi/cloth-segmentation">
       <img src="https://github.com/junu3148/Object/assets/134668162/a694d11c-723d-45e7-a888-b722504b7412" alt="cloth Image">
@@ -23,12 +23,8 @@ FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br>
 
 ---
 
-## 객체 분리 실증
 
-
-
-
-### AI model 세팅 (Real-ESRGAN)
+### AI model 세팅 (cloth-segmentation)
 
 ```bash
 git clone https://github.com/levindabhi/cloth-segmentation
