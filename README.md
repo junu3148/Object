@@ -55,10 +55,14 @@ python infer.py
 ![000](https://github.com/junu3148/Object/assets/134668162/24b7942c-8e30-4c59-80f3-83f963230824)
 
 ## 2. 테스트 원본 이미지
-![frame_0000](https://github.com/junu3148/Object/assets/134668162/886c142d-d5fb-4fd1-8cec-176266c24dbc)
+![Untitled design](https://github.com/junu3148/Object/assets/134668162/437afdc8-7012-49f9-866a-37ddaba47ada)
+
+![frame_0000](https://github.com/junu3148/Object/assets/134668162/1e56d32b-2d49-483a-a4a5-46ee2929840e)
 
 ## 2. 세그먼트 분리 이미지
 ![frame_0000](https://github.com/junu3148/Object/assets/134668162/fd3c739b-d314-494b-85dc-772c91d365ae)
+
+![frame_0000](https://github.com/junu3148/Object/assets/134668162/53986983-136f-47d6-8f99-d4ff8e40828b)
 
 
 
