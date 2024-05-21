@@ -61,8 +61,8 @@ python infer.py
 
 ## 2. 세그먼트 분리 이미지
 ![frame_0000](https://github.com/junu3148/Object/assets/134668162/fd3c739b-d314-494b-85dc-772c91d365ae)
-
+상의는 빨간색 하의는 녹색
 ![frame_0000](https://github.com/junu3148/Object/assets/134668162/53986983-136f-47d6-8f99-d4ff8e40828b)
-
+한벌 옷은 노란색으로 표시
 
 
