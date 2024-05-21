@@ -4,26 +4,19 @@
 
 
 
-## 사용 기술
+## 사용 모델
 
-### Spring boot Server
-
-Open JDK 17, Spring boot, Gradle, Spring data JPA, Postgresql 
-
-GitHub, Docker, FFmpeg
-<br>
-
-### Fast Server
-
-GPU - RTX 3060
-
-Anaconda 3
+Ubuntu 22.04(워크스테이션)
+Anaconda
+VS Code
+Python 3.8.0
 
 <br>
-AI model - codeformer, Real-ESRGAN <br> 
-FastAPI, Python 3.8, PyTorch 2.3, CUDA 11.4,  OpenCV 4.9, FFmpeg <br> 
-<a href="https://github.com/sczhou/CodeFormer">
-    <img src="https://github.com/junu3148/Upscale/assets/134668162/7d63c0b6-0c8b-44b4-bd4e-ca28e607acb0" alt="CodeFormer Image">
+AI model - cloth-segmentation <br> 
+FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br> 
+<a href="https://github.com/levindabhi/cloth-segmentation">
+    <img src="![image](https://github.com/junu3148/Object/assets/134668162/23750b74-77a5-4473-8561-a1b2ca956bac)
+">
 </a>
 
 <br><br>
