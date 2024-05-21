@@ -15,7 +15,7 @@ Python 3.8.0
 AI model - cloth-segmentation <br> 
 FastAPI, Python 3.8, PyTorch 1.3, CUDA 11.3,  OpenCV 4.9, FFmpeg <br> 
 <a href="https://github.com/levindabhi/cloth-segmentation">
-    ![image](https://github.com/junu3148/Object/assets/134668162/693277de-7585-4005-b108-2e5e27ffee9b)
+      <img src="https://github.com/junu3148/Object/assets/134668162/a694d11c-723d-45e7-a888-b722504b7412" alt="cloth Image">
 ">
 </a>
 
